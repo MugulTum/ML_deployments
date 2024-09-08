@@ -1,0 +1,7 @@
+fastapi #pip install fastapi
+uvicorn #pip install uvicorn
+pydantic #pip install pydantic
+json #pip install pypi-jsom
+pickle #pip install pickle5
+scikit-learn #pip install scikit-learn
+requests #pip install requests
